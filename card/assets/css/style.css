@@ -1,0 +1,14 @@
+.card{
+    background-image: url(../img/bg.png);
+    height: 50vh;
+    background-size: cover;
+}
+.card img{
+    width: 100px;
+    height: auto;
+}
+
+.social-media i:hover{
+    color: #fff !important;
+    background: green;
+}
